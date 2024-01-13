@@ -7,7 +7,7 @@ This web application is built using Laravel and MySQL to manage stores and emplo
 ### Store Management
 
 -   **Create**: Add new stores with names, addresses, and contact details.
--   **List**: View all existing stores with their details, view a specific employee details.
+-   **List**: View all existing stores with their details, view a specific store details.
 -   **Edit**: Modify store information.
 -   **Delete**: Remove a store and its associated employees.
 
